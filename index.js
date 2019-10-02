@@ -58,7 +58,7 @@ const heapSort = arr => {
 
   return arr;
 };
-// Sort Event 
+// Sort Event
 const sortNumsBy = callback => {
   let sortResult = document.getElementById("sortResult");
   let inputNumsValue = document
